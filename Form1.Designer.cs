@@ -72,13 +72,13 @@ namespace PharmacyManagementSystem
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Calibri", 36F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Calibri", 30F, System.Drawing.FontStyle.Italic);
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(79, 114);
+            this.label1.Location = new System.Drawing.Point(29, 186);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(291, 177);
+            this.label1.Size = new System.Drawing.Size(406, 98);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Pharmacy\r\nManagement\r\nSystem\r\n";
+            this.label1.Text = "           PharmEase \r\nBotica De San Ildefonso\r\n";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // btnExit

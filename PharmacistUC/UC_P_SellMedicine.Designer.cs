@@ -496,7 +496,7 @@ namespace PharmacyManagementSystem.PharmacistUC
             this.totalLabel.Name = "totalLabel";
             this.totalLabel.Size = new System.Drawing.Size(186, 48);
             this.totalLabel.TabIndex = 31;
-            this.totalLabel.Text = "Rs.00";
+            this.totalLabel.Text = "Ph.00";
             this.totalLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // guna2Elipse1
